@@ -33,8 +33,6 @@ func main() {
 }
 ```
 
-Try it online in the <a href="https://play.golang.org/p/tOPjCHi3eVs">playground</a>.
-
 ### Why is there no cmd version?
 
 Check out this generator: <a href="https://github.com/gofunky/gogigen">gogigen</a>
